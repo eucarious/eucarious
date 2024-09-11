@@ -1,16 +1,19 @@
-## Hi there 👋
+<sub>I MAKE THINGS</sub>
 
-<!--
-**eucarious/eucarious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Game Development Student from Finland 🇫🇮
+    
+Stylized graphics and multimedia enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently learning
+[![Currently Learning icons](https://skillicons.dev/icons?i=cpp,java,js,unity,blender)](https://skillicons.dev)
+
+### Plan to learn
+[![Plan to Learn icons](https://skillicons.dev/icons?i=arduino,godot,py)](https://skillicons.dev)
+
+---
+
+### Current Projects
