@@ -1,7 +1,5 @@
 ---
 
-Game Development Student from Finland 🇫🇮
-    
-Stylized graphics and Multimedia enthusiast
+Game Development Student from Finland
 
 ---
